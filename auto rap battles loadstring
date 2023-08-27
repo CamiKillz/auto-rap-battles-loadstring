@@ -1,18 +1,3 @@
--- Developed and Designed by snakez on Vermillion
--- Credits go to snakez for the whole script.
--- As always a vouch and +rep will be appreciated.
--- Enjoy Exploiting.
- 
--- To use this script, just click the rap you want once the timer starts, it will automatically rap.
--- There are currently two songs, more will come soon.
--- All credits go to snakez, so dont leech.
- 
-game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Subscribe to sir meme on youtube")
- 
- 
- 
--- Objects
- 
 local ScreenGui = Instance.new("ScreenGui")
 local mainframe = Instance.new("Frame")
 local TextLabel = Instance.new("TextLabel")
@@ -331,9 +316,3 @@ end)
 votegui.MouseButton1Click:connect(function()
 loadstring(game:HttpGet(("https://pastebin.com/raw/a7jy3wwA"),true))()
 end)
- 
- 
--- Developed and Designed by snakez on Vermillion
--- Leave a vouch and +rep.
--- Do not leech as i keep saying.
--- Enjoy Exploiting..
